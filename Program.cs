@@ -11,9 +11,9 @@ namespace HourTrackerBot
     class Program
     {
         #region Constants
-        private const string botToken = "NTkzNDg3MDA0ODg5NjQ1MDk2.XROl6A.a0Mq2F-P3F6xkOmDnVcfzuF0kds";
+        private const string botToken = "";
 
-        private const string xmlPath = @"C:\Users\Aled\Documents\ClockBotData\UserData.xml";
+        private const string xmlPath = "";
         #endregion
 
         #region Fields
